@@ -26,4 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site mostra uma página web voltada para a cptação de leads para uma empresa.
+O site mostra uma página web voltada para a captação de leads para uma empresa.
